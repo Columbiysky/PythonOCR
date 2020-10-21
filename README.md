@@ -1,3 +1,3 @@
 # OCR Russian state universities documents of cost of education
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/OCR.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vG5XBctRv2HFww5Bv5Yn3_2kFLaWoS6t)
